@@ -1,0 +1,15 @@
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.~lock*#
+# Java
+bin/
+out/
+target/
+*.class
+.idea/
+*.iml
